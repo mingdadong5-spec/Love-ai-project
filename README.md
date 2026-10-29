@@ -66,7 +66,3 @@ Project Love AI：從基層長照痛點，跨出「解放 AI」的第一步！
 ### VI. Proprietary Defensive Safeguards (最終商業防線)
 * **16. Impedance Gated Smart Discharge (研發卡關):** Pre-flight micro-current diagnostic polling (0.01 mA). Liquid-induced impedance variance instantly locks down power rail deployment. / 接點採凹凸防水防呆設計擠開油水；吸上時先放 0.01 毫安培微電流測試，阻抗異常立刻鎖死放電並語音警告。
 * **17. Hyper-Flexible Open Defense Deployment (大廠拖延):** Strategic timed disclosure converts proprietary mechanics into absolute Prior Art within 11 months of priority filing, forcing accelerated corporate M&A. / 若大廠惡意拖延，在第 11 個月直接將秘密解法全面公開，使其一秒變成「既有技術」，徹底切斷對手企圖壟斷的夢想，逼迫大廠提前談判簽約。
-
-### 3. Cooperative WPT Scheduling & Near-Field Power Optimization (低功耗無線電力傳輸動態調度)
-* **Technical Target:** Dynamically trigger high-efficiency near-field wireless power transfer (WPT) bursts based on UWB/IMU proximity and touching gestures, maximizing overall runtime through intelligent power micro-scheduling.
-* **技術目標：** 依據 UWB/IMU 偵測的近距離姿態與動態觸發，進行近場高效電力補給，透過智慧微電力調度將系統續航力最大化。
