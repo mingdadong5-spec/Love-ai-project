@@ -65,18 +65,7 @@ Project Love AI：從基層長照痛點，跨出「解放 AI」的第一步！
 
 ### VI. Proprietary Defensive Safeguards (最終商業防線)
 * **16. Impedance Gated Smart Discharge (研發卡關):** Pre-flight micro-current diagnostic polling (0.01 mA). Liquid-induced impedance variance instantly locks down power rail deployment. / 接點採凹凸防水防呆設計擠開油水；吸上時先放 0.01 毫安培微電流測試，阻抗異常立刻鎖死放電並語音警告。
-* **17. Hyper-Flexible Open Defense Deployment (大廠拖延):** Strategic timed disclosure converts proprietary mechanics into absolute Prior Art within 11 months of priority filing, forcing accelerated corporate M&A. / 若大廠惡意拖延，在第 11 個月直接將秘密解法全面公開，使其一秒變成「既有技術」，徹底切斷對手企圖壟斷的夢想，逼迫大廠提前談判簽約。# 🌍 Core Software Modules & Open Architecture / 核心軟體開放架構
-
-We call upon hot-blooded engineers worldwide to join Project Love AI under Apache-2.0 / GPL licensing to implement and optimize the following three core modules:
-我們邀請全球熱血工程師加入，在 Apache-2.0 / GPL 授權下共同實作與優化以下三大核心軟體模組：
-
-### 1. Sensor Fusion & Time-Series Fall Detection (多感測器融合與時序跌倒偵測)
-* **Technical Target:** Develop low-latency, low-false-alarm type-time data fusion algorithms combining 3-axis IMU telemetry from the Glasses, Pendant, and Wrist units.
-* **技術目標：** 結合眼鏡、吊墜、手錶三端 IMU 數據，開發低延遲、低誤報率的時序型資料融合演算法。
-
-### 2. Two-Way Real-Time NLP Translation Engine (雙向語音即時翻譯引擎)
-* **Technical Target:** Optimize localized Large Language Model (LLM) prompts and voice cloning hubs for long-term care needs, focusing on instant dialect translation (e.g., Taiwanese Minnan ↔ Indonesian / Vietnamese) with voiceprint replication.
-* **技術目標：** 針對長照剛需，優化在地化大模型提示詞與聲紋複製模組，實現地方方言與外籍移工母語（如台語 ↔ 印尼文/越南文）的雙向即時語音轉譯。
+* **17. Hyper-Flexible Open Defense Deployment (大廠拖延):** Strategic timed disclosure converts proprietary mechanics into absolute Prior Art within 11 months of priority filing, forcing accelerated corporate M&A. / 若大廠惡意拖延，在第 11 個月直接將秘密解法全面公開，使其一秒變成「既有技術」，徹底切斷對手企圖壟斷的夢想，逼迫大廠提前談判簽約。
 
 ### 3. Cooperative WPT Scheduling & Near-Field Power Optimization (低功耗無線電力傳輸動態調度)
 * **Technical Target:** Dynamically trigger high-efficiency near-field wireless power transfer (WPT) bursts based on UWB/IMU proximity and touching gestures, maximizing overall runtime through intelligent power micro-scheduling.
