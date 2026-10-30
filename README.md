@@ -8,9 +8,8 @@ Project Love AI：從基層長照痛點，跨出「解放 AI」的第一步！
 [![Patent Status](https://shields.io)](https://github.com)
 [![Hardware](https://shields.io)](https://github.com)
 [![Safety Specification](https://shields.io)](https://github.com)<p align="center">
-  <img src="https://githubusercontent.com" alt="Love AI Concept Design" width="100%">
-</p>
-
+  
+![Love AI Concept Design](IMG_20261020_182053.jpg)
 🇹🇼 發起人宣言 (Founder's Message)
 
 大家好，我是董明達。我不是坐在冷氣房裡的科技巨頭，也不是寫論文的科學家，我是一位每天用雙手流汗工作的台灣基層勞工。
