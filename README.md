@@ -7,7 +7,9 @@ Project Love AI：從基層長照痛點，跨出「解放 AI」的第一步！
 [![License](https://shields.io)](https://opensource.org)
 [![Patent Status](https://shields.io)](https://github.com)
 [![Hardware](https://shields.io)](https://github.com)
-[![Safety Specification](https://shields.io)](https://github.com)
+[![Safety Specification](https://shields.io)](https://github.com)<p align="center">
+  <img src="https://githubusercontent.com" alt="Love AI Concept Design" width="100%">
+</p>
 
 🇹🇼 發起人宣言 (Founder's Message)
 
