@@ -1,10 +1,13 @@
 
 Project Love AI：從基層長照痛點，跨出「解放 AI」的第一步！
 (Project Love AI: Unlocking AI for Real-World Eldercare)
+Project Love AI：從基層長照痛點，跨出「解放 AI」的第一步！
+(Project Love AI: Unlocking AI for Real-World Eldercare)
+
 [![License](https://shields.io)](https://opensource.org)
-[![Patent Status](https://shields.io)]
-[![Hardware](https://shields.io)]
-[![Safety Specification](https://shields.io)]
+[![Patent Status](https://shields.io)](https://github.com)
+[![Hardware](https://shields.io)](https://github.com)
+[![Safety Specification](https://shields.io)](https://github.com)
 
 🇹🇼 發起人宣言 (Founder's Message)
 
