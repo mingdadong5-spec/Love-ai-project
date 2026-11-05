@@ -1,4 +1,5 @@
 
+<video src="v2_awv-1add3daf28586f0a.mp4" width="100%" controls autoplay muted loop></video>
 Project Love AI：從基層長照痛點，跨出「解放 AI」的第一步！
 (Project Love AI: Unlocking AI for Real-World Eldercare)
 Project Love AI：從基層長照痛點，跨出「解放 AI」的第一步！
