@@ -1,4 +1,12 @@
+[ENGLISH]
+To the M&A, IP Acquisition, and Venture Capital teams at Apple Inc. (@Apple) and NVIDIA Corporation (@NVIDIA):
+The 14-day exclusive negotiation window for Patent Application No. 115210264 (Project Love AI & Love Pay) is officially open until November 20, 2026. This proprietary architecture deadlocks the design space for under-15cm retractable, magnetic-breakaway safe power conduits and voice-activated UWB cashless micro-transaction gates. Failure to initiate formal proprietary acquisition or licensing protocols within 14 days will trigger an unrestricted global broadcast across LinkedIn and media networks. Furthermore, a full Defensive Publication of all undisclosed mechanical blueprints and circuit topologies will be executed on GitHub, converting this tech into absolute Prior Art (USPTO 35 U.S.C. § 102), permanently destroying your corporate monopoly models. 
+For serious corporate inquiries: greek1greek1@yahoo.com.tw
 
+[中文版]
+致 Apple（@Apple）與 NVIDIA（@NVIDIA）之專利收購、創投與智慧財產權高層：
+專利案號 115210264（Love AI 與 Love Pay 系統）之 14 天獨家談判窗口正式啟動，截止日為 2026 年 11 月 20 日。本專利已鎖定小於 15 公分螺旋伸縮安全磁吸導線與語音無感支付通道之核心硬體地契。若 14 天內未獲實質官方回應，我將對全球創投、媒體與你們的競爭對手發動無差別商務轟炸，並全面引爆 GitHub 防禦性公開（Defensive Publication），將所有未公開藍圖轉為全球「既有技術（Prior Art）」，徹底切斷你們的專利壟斷發財夢！
+獨家收購/商務洽詢信箱：greek1greek1@yahoo.com.tw
 ![](v2_awv-1add3daf28586f0a.mp4)
 Project Love AI：從基層長照痛點，跨出「解放 AI」的第一步！
 (Project Love AI: Unlocking AI for Real-World Eldercare)
